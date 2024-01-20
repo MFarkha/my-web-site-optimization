@@ -1,5 +1,7 @@
-# keiko-corp
-The greatest company ever created by Bruno
+Example of a web site to be analyzed from performance point of view using the tools below:
 
-*visist https://zerotomastery.io/ for more*
+1. PageSpeed Insights
+https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect
 
+2. WebPageTest
+https://www.webpagetest.org/
